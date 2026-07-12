@@ -63,14 +63,4 @@ ProjectSettings/
 * User Interface
 * Save / Load system
 
-## Screenshots
-
-Screenshots will be added soon.
-
-## Author
-
-Created by **Veronika Sokolova**
-
----
-
 **Status:** 🚧 Work in Progress
